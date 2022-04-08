@@ -1,0 +1,16 @@
+C:\C#\RiderProjects\Geometry\Geometry\bin\Debug\net5.0\Geometry.exe
+C:\C#\RiderProjects\Geometry\Geometry\bin\Debug\net5.0\Geometry.deps.json
+C:\C#\RiderProjects\Geometry\Geometry\bin\Debug\net5.0\Geometry.runtimeconfig.json
+C:\C#\RiderProjects\Geometry\Geometry\bin\Debug\net5.0\Geometry.runtimeconfig.dev.json
+C:\C#\RiderProjects\Geometry\Geometry\bin\Debug\net5.0\Geometry.dll
+C:\C#\RiderProjects\Geometry\Geometry\bin\Debug\net5.0\ref\Geometry.dll
+C:\C#\RiderProjects\Geometry\Geometry\bin\Debug\net5.0\Geometry.pdb
+C:\C#\RiderProjects\Geometry\Geometry\obj\Debug\net5.0\Geometry.csproj.AssemblyReference.cache
+C:\C#\RiderProjects\Geometry\Geometry\obj\Debug\net5.0\Geometry.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\RiderProjects\Geometry\Geometry\obj\Debug\net5.0\Geometry.AssemblyInfoInputs.cache
+C:\C#\RiderProjects\Geometry\Geometry\obj\Debug\net5.0\Geometry.AssemblyInfo.cs
+C:\C#\RiderProjects\Geometry\Geometry\obj\Debug\net5.0\Geometry.csproj.CoreCompileInputs.cache
+C:\C#\RiderProjects\Geometry\Geometry\obj\Debug\net5.0\Geometry.dll
+C:\C#\RiderProjects\Geometry\Geometry\obj\Debug\net5.0\ref\Geometry.dll
+C:\C#\RiderProjects\Geometry\Geometry\obj\Debug\net5.0\Geometry.pdb
+C:\C#\RiderProjects\Geometry\Geometry\obj\Debug\net5.0\Geometry.genruntimeconfig.cache
