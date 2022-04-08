@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "q038FRYKkJxkfK0QWgA52Z5gP8JYRALR2D2ZE3mgPDPeyr/DM7u2682cnm/pBKK9AJ43KVt/NPHjLq0Y8wSh4Q==",
+  "dgSpecHash": "a3XlwxXmFXCYw42nG3vnooPO+7fdmn1LL92pFn40PiHICTeNf0cm3HGDLy3Q2wDzhHN+JZcxJf4FRc7gvs4euQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student RPO\\Documents\\MVA\\Geometry\\Geometry\\Geometry.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\C#\\RiderProjects\\Geometry\\Geometry\\Geometry.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Techsup\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
